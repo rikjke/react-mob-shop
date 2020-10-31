@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-mob-shop/static/css/main.33b7ccf6.chunk.css",
+    "main.js": "/react-mob-shop/static/js/main.1d8e06c7.chunk.js",
+    "main.js.map": "/react-mob-shop/static/js/main.1d8e06c7.chunk.js.map",
+    "runtime-main.js": "/react-mob-shop/static/js/runtime-main.bdd72b65.js",
+    "runtime-main.js.map": "/react-mob-shop/static/js/runtime-main.bdd72b65.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/react-mob-shop/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d574ddb0.chunk.js": "/react-mob-shop/static/js/2.d574ddb0.chunk.js",
+    "static/js/2.d574ddb0.chunk.js.map": "/react-mob-shop/static/js/2.d574ddb0.chunk.js.map",
+    "static/js/3.aa16d600.chunk.js": "/react-mob-shop/static/js/3.aa16d600.chunk.js",
+    "static/js/3.aa16d600.chunk.js.map": "/react-mob-shop/static/js/3.aa16d600.chunk.js.map",
+    "index.html": "/react-mob-shop/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/react-mob-shop/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.33b7ccf6.chunk.css.map": "/react-mob-shop/static/css/main.33b7ccf6.chunk.css.map",
+    "static/js/2.d574ddb0.chunk.js.LICENSE.txt": "/react-mob-shop/static/js/2.d574ddb0.chunk.js.LICENSE.txt",
+    "static/media/logo.393df3f4.svg": "/react-mob-shop/static/media/logo.393df3f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd72b65.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d574ddb0.chunk.js",
+    "static/css/main.33b7ccf6.chunk.css",
+    "static/js/main.1d8e06c7.chunk.js"
+  ]
+}
