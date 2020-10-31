@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-mob-shop/static/css/main.33b7ccf6.chunk.css",
-    "main.js": "/react-mob-shop/static/js/main.089d255f.chunk.js",
-    "main.js.map": "/react-mob-shop/static/js/main.089d255f.chunk.js.map",
+    "main.js": "/react-mob-shop/static/js/main.c61f7c02.chunk.js",
+    "main.js.map": "/react-mob-shop/static/js/main.c61f7c02.chunk.js.map",
     "runtime-main.js": "/react-mob-shop/static/js/runtime-main.bdd72b65.js",
     "runtime-main.js.map": "/react-mob-shop/static/js/runtime-main.bdd72b65.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/react-mob-shop/static/css/2.20aa2d7b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.d574ddb0.chunk.js",
     "static/css/main.33b7ccf6.chunk.css",
-    "static/js/main.089d255f.chunk.js"
+    "static/js/main.c61f7c02.chunk.js"
   ]
 }
